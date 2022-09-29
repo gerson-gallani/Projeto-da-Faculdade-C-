@@ -1,4 +1,4 @@
-# Projeto-da-Faculdade-C-<br>
+# Projeto-da-Faculdade-C++-<br>
 Este projeto foi desenvolvido em conjunto com alguns colegas da faculdade, gerênciei todo o trabalho desde a parte escrita até a prática, tambem participei ativamente e 
 fui uns dos responsável pelo código 
 c++ contido nesse trabalho.<br>
